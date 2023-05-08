@@ -1,13 +1,13 @@
 name: nudeny
-description: Nudeny package to classify and detect nudity from an image.
-version: 0.0.1
-# repository: https://github.com/my_org/my_repo
+description: Nudeny is a package for image nudity classification, detection, and censorship. It is easy to integrate into your project.
+version: 0.0.2
+repository: https://github.com/Nudeny/Nudeny-dart-package
 
 environment:
   sdk: '>=2.19.6 <3.0.0'
 
 dependencies:
-  path: ^1.8.0
+  # path: ^1.8.0
   dio: ^5.1.1
 
 dev_dependencies:
